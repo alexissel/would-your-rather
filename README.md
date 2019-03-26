@@ -3,6 +3,8 @@ Web app version of the game "Would You Rather?" developed as part of the [Udacit
 
 A web application that lets users propose questions, which other users can then answer. This app was made with React and it's learning goal was to learn Redux.
 
+[![wyr-login.png](https://i.postimg.cc/vTCn4mKh/wyr-login.png)](https://postimg.cc/XBcqhn4B)
+
 ## Setup
 1. Clone the repository
 ```
