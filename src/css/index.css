@@ -1,0 +1,80 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+	"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+	sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: #e9ecef;
+}
+
+.form-wrapper {
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+	background-color: #fff;
+	padding: 30px 50px;
+	-webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	text-align: center;
+	margin-top: 100px;
+}
+
+.form-label {
+	margin-bottom: 20px;
+}
+
+.form-group:first-child {
+	margin-bottom: 30px;
+}
+
+.form-group:last-child {
+	margin-top: 30px;
+}
+
+.navbar {
+	margin-bottom: 30px;
+}
+
+.nav-tabs {
+	margin-bottom: 30px;
+}
+
+.card {
+	margin-bottom: 20px;
+}
+
+.card-body p {
+	font-weight: normal;
+	margin-top: 7px;
+	margin-bottom: 0;
+}
+
+.progress {
+	margin-top: 10px;
+}
+
+.m-t-0 {
+	margin-top: 0 !important;
+}
+
+.m-t-70 {
+	margin-top: 70px;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover {
+	color: #ccc;
+}
+
+a.nav-link, label {
+	cursor: pointer;
+}
+
+div#root > div > div {
+	z-index: 1;
+}
